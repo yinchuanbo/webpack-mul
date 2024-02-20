@@ -1,0 +1,16 @@
+{
+  "index": {
+    "title": "index title",
+    "keywords": "index, home",
+    "description": "index content"
+  },
+  "about": {
+    "title": "about title"
+  },
+  "contact": { 
+    "title": "contact title"
+  },
+  "404": {
+    "title": "404 title"
+  }
+}
